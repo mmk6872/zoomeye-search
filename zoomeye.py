@@ -5,8 +5,8 @@ import requests
 import argparse
 
 ######## CHANGE THESE  (Or use `--email` and `--password` arguments) #########
-USER_EMAIL = "email@example.com"
-USER_PASSWORD = "password"
+USER_EMAIL = "stone@sec.dog"
+USER_PASSWORD = "Ixw3vFVc65Kk"
 ##############################################################################
 
 parser = argparse.ArgumentParser(
